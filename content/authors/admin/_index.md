@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Trần Bảo Khuê
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Kwh-ay
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Bao Khue
+last_name: Tran
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🥭
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,133 +20,118 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Statistics PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: UNSW Sydney
+    url: https://www.unsw.edu.au/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/tranbaokhue
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/in/tranbaokhue/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0009-2895-204X
+  - icon: brands/instagram
+    url: https://www.instagram.com/khuetran03/
+  - icon: brands/youtube
+    url: https://www.youtube.com/@notesbykhue
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Statistics
+  - Nonparametric Statistics
+  - Streaming Data
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.A. Mathematics (Statistics/Data Science Track) and Music
+    institution: Kenyon College
+    date_start: 2021-08-15
+    date_end: 2025-05-17
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: 3.98/4.0
+      Summa cum laude
+      Elected member of Phi Beta Kappa and Pi Mu Epsilon
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Relevant coursework:
+      - Mathematical Statistics
+      - Probability
+      - Bayesian Statistics
+      - Applied Linear Algebra
+      - Statistical Computing with R
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Statistics Researcher
+    company_name: Kenyon College
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Co-wrote a paper as first author to be submitted to the R Journal (Q2)
+      - Simulated null distributions for two new nonparametric test statistics in 150 different balanced observations settings
+      - Conducted 200+ Monte Carlo power studies to compare the empirical powers of proposed tests with existing procedures
+      - Extensively reviewed the literature on nonparametric procedures in two-way factorial design
+      - Enhanced previous codes’ efficiency with parallel processing, reducing the simulation runtime by up to seven-fold
+  - position: Mathematics and Statistics Tutor
+    company_name: Math and Science Skills Center (MSSC), Kenyon College
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-09-15
+    date_end: 2025-05-8
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Instructed over 30 students in Multivariable Calculus with visualizing surfaces, differentiation, optimization, and integration
+      - Guided students in Data Analysis through theoretical statistical models, brainstorming analysis project, visualizing data
+      - Troubleshot R and/or Maple coding errors and supported students on various projects, ie. regression, optimization, etc.
+      - Implemented metacognitive approaches in tutoring sessions to motivate critical thinking, problem solving, and boost self-efficacy
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
+      - name: R
+        description: ''
+        percent: 94
+        icon: code-bracket
+      - name: C++
+        description: ''
+        percent: 32
+        icon: ⚙️
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 60
+        icon: 🐍
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Music (mainly classical)
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: 🎶
+
+      - name: Hiking/Running
         description: ''
         percent: 80
-        icon: camera
+        icon: 🏔
+      
+      - name: Cooking + Baking
+        description: ''
+        percent: 80
+        icon: 🥢
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Vietnamese
+    percent: 100
+  - name: French
     percent: 25
 
 # Awards.
@@ -154,33 +139,34 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: Solomon R.S. Kasper Prize
+    url: 
+    date: '2025'
+    awarder: Kenyon College Department of Mathematics and Statistics
+    icon: kenyon
+    summary: |
+      Award for outstanding creativity and ingenuity in mathematics and computer science.
+  - title: Franklin Miller Award
+    url: https://www.kenyon.edu/offices-and-services/office-of-the-provost/recognition/franklin-miller-awards/
+    date: '2025'
+    awarder: Kenyon College
+    icon: kenyon
+    summary: |
+      The Franklin Miller Awards are given to students who make unusual or significant contributions to the academic environment of the College. The awards are named for Franklin Miller Jr., a long-time member of the faculty and a distinguished physicist, teacher and textbook author.
+  - title: Elmer A. Graham Endowed Scholarship
+    url: 
+    date: '2024'
+    awarder: Kenyon College
+    icon: kenyon
+    summary: |
+      One student from the graduating class is chosen at the end of their junior year to win this senior year's full-tuition  scholarship by the Board of Trustees. 
+  - title: International Humanitarian Law in Theory and Practice
+    url: https://www.coursera.org/account/accomplishments/certificate/WUY5M82JK8ZK
+    date: '2021-08'
     awarder: Coursera
     icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Khue Tran is a statistics researcher interested in computational aspects of procedures and optimizing the efficiency of methods. Outside of research, Khue spends most of her time by the piano or in the outdoors running, strolling, or playing tennis with friends. Khue loves good food and travelling to try even more cuisines around the world!
