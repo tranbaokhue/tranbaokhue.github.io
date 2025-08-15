@@ -49,8 +49,8 @@ interests:
 education:
   - area: B.A. Mathematics (Statistics/Data Science Track) and Music
     institution: Kenyon College
-    date_start: 2021-08-15
-    date_end: 2025-05-17
+    date_start: '2021-08-15'
+    date_end: '2025-05-17'
     summary: |
       GPA: 3.98/4.0
       Summa cum laude
@@ -68,7 +68,7 @@ work:
     company_name: Kenyon College
     company_url: ''
     company_logo: ''
-    date_start: 2023-01
+    date_start: '2023-01-12'
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -81,8 +81,8 @@ work:
     company_name: Math and Science Skills Center (MSSC), Kenyon College
     company_url: ''
     company_logo: ''
-    date_start: 2022-09-15
-    date_end: 2025-05-8
+    date_start: '2022-09-15'
+    date_end: '2025-05-08'
     summary: |
       Responsibilities include:
       - Instructed over 30 students in Multivariable Calculus with visualizing surfaces, differentiation, optimization, and integration
@@ -140,29 +140,29 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Solomon R.S. Kasper Prize
-    url: 
-    date: '2025'
+    url: ''
+    date: '2025-04-15'
     awarder: Kenyon College Department of Mathematics and Statistics
     icon: kenyon
     summary: |
       Award for outstanding creativity and ingenuity in mathematics and computer science.
   - title: Franklin Miller Award
     url: https://www.kenyon.edu/offices-and-services/office-of-the-provost/recognition/franklin-miller-awards/
-    date: '2025'
+    date: '2025-04-15'
     awarder: Kenyon College
     icon: kenyon
     summary: |
       The Franklin Miller Awards are given to students who make unusual or significant contributions to the academic environment of the College. The awards are named for Franklin Miller Jr., a long-time member of the faculty and a distinguished physicist, teacher and textbook author.
   - title: Elmer A. Graham Endowed Scholarship
-    url: 
-    date: '2024'
+    url: ''
+    date: '2024-04-15'
     awarder: Kenyon College
     icon: kenyon
     summary: |
       One student from the graduating class is chosen at the end of their junior year to win this senior year's full-tuition  scholarship by the Board of Trustees. 
   - title: International Humanitarian Law in Theory and Practice
     url: https://www.coursera.org/account/accomplishments/certificate/WUY5M82JK8ZK
-    date: '2021-08'
+    date: '2021-08-07'
     awarder: Coursera
     icon: coursera
 ---
