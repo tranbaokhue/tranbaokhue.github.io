@@ -102,11 +102,11 @@ skills:
       - name: C++
         description: ''
         percent: 32
-        icon: ⚙️
+        icon: 
       - name: Python
         description: ''
         percent: 60
-        icon: 🐍
+        icon: 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -114,17 +114,17 @@ skills:
       - name: Music (mainly classical)
         description: ''
         percent: 100
-        icon: 🎶
+        icon: 
 
       - name: Hiking/Running
         description: ''
         percent: 80
-        icon: 🏔
+        icon: 
       
       - name: Cooking + Baking
         description: ''
         percent: 80
-        icon: 🥢
+        icon: 
 
 languages:
   - name: English
@@ -143,21 +143,21 @@ awards:
     url: ''
     date: '2025-04-15'
     awarder: Kenyon College Department of Mathematics and Statistics
-    icon: kenyon
+    icon: ''
     summary: |
       Award for outstanding creativity and ingenuity in mathematics and computer science.
   - title: Franklin Miller Award
     url: https://www.kenyon.edu/offices-and-services/office-of-the-provost/recognition/franklin-miller-awards/
     date: '2025-04-15'
     awarder: Kenyon College
-    icon: kenyon
+    icon: ''
     summary: |
       The Franklin Miller Awards are given to students who make unusual or significant contributions to the academic environment of the College. The awards are named for Franklin Miller Jr., a long-time member of the faculty and a distinguished physicist, teacher and textbook author.
   - title: Elmer A. Graham Endowed Scholarship
     url: ''
     date: '2024-04-15'
     awarder: Kenyon College
-    icon: kenyon
+    icon: ''
     summary: |
       One student from the graduating class is chosen at the end of their junior year to win this senior year's full-tuition  scholarship by the Board of Trustees. 
   - title: International Humanitarian Law in Theory and Practice
