@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Trần Bảo Khuê
+title: Bao Khue Tran
 
 # Name pronunciation (optional)
-name_pronunciation: Kwh-ay
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Bao Khue
@@ -169,4 +169,4 @@ awards:
 
 ## About Me
 
-Khue Tran is a statistics researcher interested in computational aspects of procedures and optimizing the efficiency of methods. Outside of research, Khue spends most of her time by the piano or in the outdoors running, strolling, or playing tennis with friends. Khue loves good food and travelling to try even more cuisines around the world!
+Khue is a statistics researcher interested in the computational aspects of procedures and optimizing the efficiency of methods. Outside of research, Khue spends most of her time by the piano or in the outdoors running, strolling, or playing tennis with friends. Khue loves good food and travelling to try even more cuisines around the world!
